@@ -1,0 +1,11 @@
+{
+  "name": "site-intencional-database",
+  "version": "1.0.0",
+  "description": "Database migration script for Supabase pgvector",
+  "main": "migrate.js",
+  "type": "module",
+  "dependencies": {
+    "pg": "^8.13.3",
+    "dotenv": "^16.4.7"
+  }
+}
